@@ -1,4 +1,4 @@
-# Flutter Real Estate App UI
+# Flutter Real Estate App UI/UX
 
 Real Estate app UI using flutter,This project consist of Two Screens.
 
