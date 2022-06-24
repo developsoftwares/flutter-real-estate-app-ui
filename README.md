@@ -4,7 +4,7 @@ Real Estate app UI using flutter,This project consist of Two Screens.
 
 ### :heart: :heart: Found this project useful?
 
-If you found this project useful, you can purchase the completed project with its functional backend or you can buy me a coffee..
+If you found this project useful, you can purchase the COMPLETED PROJECT with its functional backend or you can buy me a coffee..
 This project can also be modified and tailored according to your business..
 Please consider giving this project a :star: on Github and follow me on GitHub.
 
