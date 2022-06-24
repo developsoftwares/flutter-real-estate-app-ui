@@ -1,7 +1,4 @@
-# Real Estate App UI
-
-## [Watch it on YouTube](https://www.youtube.com/watch?v=E8J668JeZAE)
-
+# Flutter Real Estate App UI
 
 Real Estate app UI using flutter,This project consist of Two Screens.
 
@@ -11,7 +8,7 @@ If you found this project useful, then please consider giving it a :star: on Git
 
 <a href="https://www.buymeacoffee.com/iamsayuj"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60"></a>
 
-### Real Estate App UI
+### Flutter Real Estate App UI
 
 ![App UI](/realestate.gif)
 
